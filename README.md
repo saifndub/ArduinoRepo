@@ -1,7 +1,7 @@
 # ArduinoRepo
 This repository contains all of my Arduino project links.
 <br><be>
-- ### Industrial Automation using SmartPhone
+- ### Industrial Automation using Smartphone (Client Project)
   - https://youtu.be/6KuWV7y5Fjc?si=VAXa6t2iuxScDhZN
   - https://github.com/saifndub/EIT_Python (Note: Will be made public if necessary.)
 - ### Industrial Motor Controlling and Monitoring System
